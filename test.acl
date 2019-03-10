@@ -10,9 +10,9 @@
 
 [outbound_block_list]
 #屏蔽强制更新
-#(^|\.)sdk\.gplayspace\.com$
+(^|\.)sdk\.gplayspace\.com$
 #屏蔽广告
-(^|\.)mto\.multiopen\.cn$
+#(^|\.)mto\.multiopen\.cn$
 
 [bypass_list]
 0.0.0.0/8
